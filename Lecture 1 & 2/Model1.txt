@@ -1,0 +1,1 @@
+Predict width using height. Implement this using Linear Regression algorithm. Find the accuracy, mse, mae, best fit line & lastly save your model using pickle & joblib.
