@@ -37,4 +37,8 @@ We live in a data-rich world. ML turns that raw signal into scalable impact — 
 - **Regression:** Linear Regression, Polynomial Regression.  
 - **Classification:** Logistic Regression, Naïve Bayes, Random Forest.  
 - **Clustering:** K-Means, DBSCAN.  
-- **Deep Learning:** Feedforward Neural Nets, CNNs, RNNs.
+- **Deep Learning:** Feedforward Neural Nets, CNNs, RNNs.  
+
+### 📌 Additional Resource  
+For quick revision and exam prep, check out the Last Minute Notes (LMNs):  
+➡️ [GeeksforGeeks — Machine Learning LMNs](https://www.geeksforgeeks.org/machine-learning/last-minute-notes-lmns-machine-learning)
